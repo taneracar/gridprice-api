@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/GridPrice.Api/GridPrice.Api.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/GridPrice.Tests/GridPrice.Tests.csproj" />
+  </Folder>
+</Solution>
